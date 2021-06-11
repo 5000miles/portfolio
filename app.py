@@ -55,9 +55,11 @@ if page == 'About Me':
         self.name = 'Trevor' \n\
         self.background = 'A Data Scientist/Analyst with Math and Statistics background' \n\
         self.skills = 'Python is my first language, but I am also good at R.'\n\
-     ")
-
-     st.write("Please take a look of my projects that I recently did, and I'll keep updating them")
+        \n\
+print('please take a look of my projects I did recently and I will keep updating them') \n\
+\n\
+\n\
+")
 
 if page == 'Text Classification on Reddit':
     st.image('NLP/reddit.png')
