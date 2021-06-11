@@ -2,3 +2,4 @@ pandas==0.25.1
 streamlit==0.80.0
 pickleshare==0.7.5
 numpy==1.17.2
+nltk==3.4.5
