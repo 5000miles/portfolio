@@ -55,7 +55,8 @@ if page == 'About Me':
         self.name = 'Trevor' \n\
         self.background = 'A Data Scientist/Analyst with Math and Statistics background' \n\
         self.skills = 'Python is my first language, but I am also good at R.'\n\
-     print("Please take a look of the 2 projects I did recently and I will keep updating them"")
+     print("Please take a look of the 2 projects I did recently and I will keep updating them")\n\
+     ")
 
 
 
