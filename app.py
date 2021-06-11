@@ -3,6 +3,9 @@ import pickle
 import numpy as np
 import base64
 from prepare import prepare, input_to_df
+import nltk
+
+nltk.download()
 
 
 # enlarge the font
