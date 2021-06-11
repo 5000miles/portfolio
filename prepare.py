@@ -1,4 +1,7 @@
 import pandas as pd
+import nltk
+
+nltk.download('wordnet')
 from nltk.tokenize import RegexpTokenizer,sent_tokenize
 from nltk.stem import WordNetLemmatizer
 
