@@ -57,7 +57,7 @@ if page == 'About Me':
         self.skills = 'Python is my first language, but I am also good at R.'\n\
      ")
 
-
+     st.write("Please take a look of my projects that I recently did, and I'll keep updating them")
 
 if page == 'Text Classification on Reddit':
     st.image('NLP/reddit.png')
