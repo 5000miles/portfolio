@@ -203,7 +203,6 @@ if page == 'Text Classification on Reddit':
 
         st.write(f'The post you entered is from {predicted_result[0]} subreddit')
 if page == 'Speech and Pictures Transformation':
-    st.title('hello~~~~~~~')
     st.markdown('''
     # Noise Detection & Classify
 
